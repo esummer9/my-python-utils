@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: myutils
+Version: 0.1.0
+Summary: 나만의 유틸리티 모음
+Author: 이여름
+Author-email: esummer.lee@email.com
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: selenium
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: slugify
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

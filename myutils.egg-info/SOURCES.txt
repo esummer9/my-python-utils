@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+myutils/__init__.py
+myutils/book_utils.py
+myutils/movie_utils.py
+myutils/utils.py
+myutils.egg-info/PKG-INFO
+myutils.egg-info/SOURCES.txt
+myutils.egg-info/dependency_links.txt
+myutils.egg-info/requires.txt
+myutils.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+numpy
+pandas
+selenium
+requests
+beautifulsoup4
+slugify
